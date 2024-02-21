@@ -1,0 +1,8 @@
+name = "JDIMD"
+uuid = "07aa0f6f-d6b3-473a-96f0-caaf4dc7a736"
+authors = ["Unknown "]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
